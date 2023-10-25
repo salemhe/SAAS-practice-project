@@ -257,14 +257,12 @@ img {
     border: 1px solid #ccc;
     border-radius: 5px;
     margin: 20px 0;
-
 }
 
 
 
 
 /* Utility Classes */
-
 .container {
     max-width: 1100px;
     margin: 0 auto;
